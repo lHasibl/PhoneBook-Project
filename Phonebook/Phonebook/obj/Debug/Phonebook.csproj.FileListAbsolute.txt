@@ -1,0 +1,12 @@
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\bin\Debug\Phonebook.exe.config
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\bin\Debug\Phonebook.exe
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\bin\Debug\Phonebook.pdb
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.about_us.resources
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.Form1.resources
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.register_data.resources
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.search_data.resources
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.cache
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.exe
+F:\STUDY\C#\Practice\Section-28(phonebook project)\Phonebook_sln\Phonebook\obj\Debug\Phonebook.pdb
